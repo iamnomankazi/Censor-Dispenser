@@ -1,1 +1,1 @@
-# censor-dispenser
+This project is based on Python. This project can be used to censor information in an email. It intercepts the given emails and censors any proprietary information, negative words, and unnecessary punctuation included in them. This way any unnecessary information can be censored and email can be sent without any proprietary information being shared with the third party/board members/board of investors.
