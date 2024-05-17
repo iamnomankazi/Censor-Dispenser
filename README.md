@@ -1,1 +1,3 @@
-This project is based on Python. This project can be used to censor information in an email. It intercepts the given emails and censors any proprietary information, negative words, and unnecessary punctuation included in them. This way any unnecessary information can be censored and email can be sent without any proprietary information being shared with the third party/board members/board of investors.
+This Python project automates email content filtering. 
+It intercepts emails and redacts sensitive information like proprietary data, negative language, and excessive punctuation. 
+This ensures only relevant and appropriate content reaches recipients, minimizing the risk of unintentional information leaks, particularly to third parties, board members, or investors.
